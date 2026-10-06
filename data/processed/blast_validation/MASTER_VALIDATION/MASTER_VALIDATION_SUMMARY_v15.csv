@@ -1,0 +1,6 @@
+validation_layer,panel_description,n_tested,positive_or_hit_count,observed_rate_pct,interpretation
+Controlled positive sequences,Exact reference-derived positive controls,5,5,100.0,All exact positive controls detected
+Controlled unrelated negatives,Unrelated deterministic negative controls,3,0,0.0,No significant hits observed
+Expanded computational negatives,"Random, GC-matched, length/GC-matched and dinucleotide-preserving controls",133,0,0.0,No significant hits observed across computational negative panel
+Biological challenge panel,13 provenance-verified related Aspergillus/Penicillium CDS,13,0,0.0,No significant BLAST hits observed in tested biological challenge panel
+Provenance audit,Biological challenge sequence provenance,13,13,100.0,13/13 sequences provenance-resolved

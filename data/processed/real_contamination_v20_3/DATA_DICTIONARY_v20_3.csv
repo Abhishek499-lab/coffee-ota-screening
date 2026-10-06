@@ -1,0 +1,20 @@
+field,description
+sample_id,Unique sample identifier generated from publication year and sample order
+source_country,Country associated with the published Turkish coffee study
+sample_type,Commercial roasted and ground coffee
+sampling_year,Year of sample collection
+sample_number_within_year,Published row order within each year
+ota_concentration_ng_g,Measured OTA concentration in ng/g; NaN for <LOD
+ota_concentration_ug_kg,Same concentration expressed in µg/kg; 1 ng/g = 1 µg/kg
+measurement_status,DETECTED or BELOW_LOD
+raw_ota_value,Original published table value
+lod_ng_g,Published LOD = 0.23 ng/g
+loq_ng_g,Published LOQ = 0.70 ng/g
+ota_value_for_published_mean_ng_g,LOD-substituted value used only to reproduce publication mean
+ota_detected,Analytical detection flag
+contamination_label,Detection-status label; not a regulatory threshold classification
+measurement_method,Published HPLC fluorescence method
+source_title,Publication title
+source_doi,Publication DOI
+source_url,Publication URL
+source_table,Published source table

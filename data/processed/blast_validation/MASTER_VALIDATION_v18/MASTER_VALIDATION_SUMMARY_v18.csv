@@ -1,0 +1,5 @@
+validation_layer,n,detected,false_hits,no_hit,detection_rate_pct,specificity_pct,interpretation
+controlled_positive,5,5,0,0,100.0,,Reference-derived positive controls
+controlled_unrelated_negative,3,0,0,3,,100.0,Deterministic unrelated computational negatives
+expanded_computational_negative,133,0,0,133,,100.0,"Random, GC-matched, length/GC-matched and dinucleotide-preserving computational controls"
+biological_challenge,13,0,0,13,,100.0,13 provenance-verified annotated CDS from related Aspergillus/Penicillium biological records

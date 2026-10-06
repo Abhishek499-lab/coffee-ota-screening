@@ -1,0 +1,2 @@
+provenance_resolved,controlled_positive_detection,controlled_unrelated_negative_hits,expanded_computational_negative_hits,biological_challenge_hits,candidate_rules_tested,candidate_rules_with_biological_false_hits,ota_production_proven_by_sequence,universal_specificity_established,current_claim,pipeline_role
+13/13,5/5,0/3,0/133,0/13,6,0,False,False,No significant OTA-reference BLAST hit was observed in the tested 13-sequence biological challenge panel.,Computational pre-screen / triage; confirmatory laboratory testing remains required.

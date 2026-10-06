@@ -1,0 +1,32 @@
+OTA SCREENING — MASTER VALIDATION REPORT v18
+================================================================================
+
+CONTROLLED POSITIVES
+Detected: 5/5
+
+CONTROLLED UNRELATED NEGATIVES
+False hits: 0/3
+
+EXPANDED COMPUTATIONAL NEGATIVES
+False hits: 0/133
+
+BIOLOGICAL CHALLENGE
+False hits: 0/13
+
+PROVENANCE
+Resolved: 13/13
+
+IDENTITY CALIBRATION
+Queries: 68
+
+THRESHOLD SENSITIVITY
+Rules tested: 60
+
+PRODUCTION RULE
+Identity >= 80%
+Query coverage >= 90%
+Alignment >= 100 nt
+E-value <= 1e-5
+
+FINAL INTERPRETATION
+The completed validation branches support the computational implementation as a pre-screen/triage workflow. They do not establish universal biological specificity and do not prove OTA toxin production. Confirmatory laboratory testing remains required.

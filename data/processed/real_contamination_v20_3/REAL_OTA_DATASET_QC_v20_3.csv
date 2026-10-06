@@ -1,0 +1,9 @@
+check,expected,observed,status
+total_samples,65.0,65.0,PASS
+ota_detected_samples,53.0,53.0,PASS
+below_lod_samples,12.0,12.0,PASS
+samples_2021,18.0,18.0,PASS
+samples_2022,18.0,18.0,PASS
+samples_2023,14.0,14.0,PASS
+samples_2024,15.0,15.0,PASS
+maximum_ota,19.11,19.11,PASS

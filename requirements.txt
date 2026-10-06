@@ -6,3 +6,4 @@ scikit-learn>=1.3
 # k-mer similarity approach. Add it back only if you upgrade
 # feature_extraction.py to use real local BLAST+ (see README).
 # biopython>=1.81
+matplotlib
