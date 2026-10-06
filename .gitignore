@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# BLAST generated database binaries
+*.nhr
+*.nin
+*.nsq
+*.nog
+*.nos
+*.not
+*.nto
+*.ntf
+*.ndb
+
+# Generated/intermediate analysis
+data/processed/
+
+# Keep explicitly selected final evidence under data/processed/
+!data/processed/
+!data/processed/real_contamination_v28_final_statistical_consolidation/
+!data/processed/real_contamination_v28_final_statistical_consolidation/**
+!data/processed/blast_validation/
+!data/processed/blast_validation/MASTER_VALIDATION/
+!data/processed/blast_validation/MASTER_VALIDATION/**
+!data/processed/blast_validation/MASTER_VALIDATION_v18/
+!data/processed/blast_validation/MASTER_VALIDATION_v18/**
+!data/processed/production_pipeline_v16/
+!data/processed/production_pipeline_v16/**
+
+# Local release audit files
+github_release_v*/
+data/processed/github_*/
+
+*.pyc
+*.pyo

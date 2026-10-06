@@ -1,0 +1,11 @@
+claim_id,claim,status,basis
+C1,OTA was detected in 53 of 65 samples.,SUPPORTED,Dataset metadata
+C2,12 of 65 samples were below the 0.23 µg/kg LOD.,SUPPORTED,Dataset metadata
+C3,Detection prevalence differed significantly between years.,NOT_SUPPORTED,v25.2 detection model p=0.8027
+C4,The overall OTA concentration distribution changed significantly across 2021–2024.,NOT_SUPPORTED,v24 p=0.6781; v27 p=0.1425
+C5,OTA contamination increased monotonically from 2021 to 2024.,NOT_SUPPORTED,No significant full-data temporal model
+C6,Some detected-only analyses showed year-associated differences.,SUPPORTED_AS_EXPLORATORY,v22/v23
+C7,The detected-only sensitivity analysis became significant after removing the 19.11 µg/kg observation.,SUPPORTED_AS_SENSITIVITY,v25.2 sensitivity p=0.00586
+C8,The 19.11 µg/kg observation alone establishes a temporal trend.,NOT_SUPPORTED,v24/v27 full-data analyses
+C9,A temporal increase in OTA contamination has been demonstrated.,NOT_SUPPORTED,Concordant primary models are non-significant
+C10,The dataset demonstrates OTA toxin production from sequence evidence.,NOT_SUPPORTED,Published concentration data are not sequence-paired

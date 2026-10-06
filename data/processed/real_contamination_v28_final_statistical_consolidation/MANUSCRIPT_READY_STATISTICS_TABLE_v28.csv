@@ -1,0 +1,13 @@
+Metric,Result
+Total samples,65
+OTA detected,53/65 (81.5%)
+Below LOD,12/65 (18.5%)
+LOD,0.23 µg/kg
+Detected concentration range,0.26–19.11 µg/kg
+Detected median,1.22 µg/kg
+Detected mean,1.755 µg/kg
+Detection year effect,p=0.803
+Full censored year effect,p=0.678
+Detected-only year effect,p=0.141
+Nonparametric cross-check,p=0.142
+Nonparametric sensitivity,p=0.081

@@ -1,0 +1,106 @@
+LOCUS       AY196315                2227 bp    DNA     linear   PLN 25-OCT-2005
+DEFINITION  Penicillium nordicum.
+ACCESSION   AY196315
+VERSION     AY196315.2
+KEYWORDS    .
+SOURCE      Penicillium nordicum
+  ORGANISM  Penicillium nordicum
+            Eukaryota; Fungi; Ascomycota; Pezizomycotina; Eurotiomycetes;
+            Eurotiales; Trichocomaceae; mitosporic Trichocomaceae; Penicillium.
+REFERENCE   1  (bases 1 to 2227)
+  AUTHORS   Geisen,R., Mayer,Z., Karolewiez,A. and Farber,P.
+  TITLE     Development of a Real Time PCR system for detection of Penicillium
+            nordicum and for monitoring ochratoxin A production in foods by
+            targeting the ochratoxin polyketide synthase gene
+  JOURNAL   Syst. Appl. Microbiol. 27 (4), 501-507 (2004)
+   PUBMED   15368856
+REFERENCE   2  (bases 1 to 2227)
+  AUTHORS   Karolewiez,A. and Geisen,R.
+  TITLE     Cloning a part of the ochratoxin A biosynthetic gene cluster of
+            Penicillium nordicum and characterization of the ochratoxin
+            polyketide synthase gene
+  JOURNAL   Syst. Appl. Microbiol. 28 (7), 588-595 (2005)
+   PUBMED   16156116
+REFERENCE   3  (bases 1 to 2227)
+  AUTHORS   Geisen,R. and Faerber,P.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (12-DEC-2002) Institute of Hygiene and Toxicology,
+            Federal Research Center for Nutrition, Haid-und-Neu-Str. 9,
+            Karlsruhe, BW 76131, Germany
+REFERENCE   4  (bases 1 to 2227)
+  AUTHORS   Karolewiez,A. and Geisen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (05-DEC-2003) Institute of Hygiene and Toxicology,
+            Federal Research Center for Nutrition, Haid-und-Neu-Str. 9,
+            Karlsruhe, BW 76131, Germany
+  REMARK    Sequence update by submitter
+COMMENT     [WARNING] On Nov 8, 2005 this sequence was replaced by AY557343.2.
+            
+            On Dec 10, 2003 this sequence version replaced AY196315.1.
+FEATURES             Location/Qualifiers
+     source          1..2227
+                     /organism="Penicillium nordicum"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:229535"
+     mRNA            <1..>2227
+                     /product="ochratoxin A polyketide synthase"
+     CDS             1..>2227
+                     /note="myctotoxin; otapksPN"
+                     /codon_start=1
+                     /product="ochratoxin A polyketide synthase"
+                     /protein_id="AAP33839.2"
+                     /translation="MDNDIAVVGMACRLPGGTNSPNELWEMIMEKHEASSEIPSMRWE
+                     PYMKTDVRNTEVLEKLPKRGYFLDNLEDFDAAFFGISPKEAEQLDPQQRIVLEVAWEA
+                     LERAGVPPQCLSGSDTGVFLGVNSNDYSHLVLEDLPRLEPWMGIGTAYCGVPNRVSYQ
+                     LDLMGPSMAVDAACASSLVAVHLGRQAILQGECKVAIVGGVNAMCHPGMTVVLDRAGA
+                     TSEEGICQSFDDAAHGYGRGEGAAIIILKSIEDAINDKDDILALVKGSAVAQDGRTQG
+                     IMAPNSAAQELVARKALGTAGVDPATVNYVEAHATSTPVGDSTEITALSRVYGHMRKS
+                     DNPCYIGSVKPNIGHLEAGAGAVGFIKSVMSIHTGILAPQANLDQLNSSIDWAGAGLQ
+                     VVQDSQQWPSSDAPRRAGVSSYGYGGTVSHVILEQYTPPPFEDKQSQSDGPQILLLSA
+                     PHENRISAQANVLSFWMNDAGKNNALSRIATTLAIRRGHHTHRAALVVDNHHDAIEKL
+                     RSLSEDVSTEWVTKNRVLTKDTRKDVTFVFSGHGAQWADMGKQLLHNRMFYDTVASLD
+                     PIVKAEMEFSALDSFESGDFMASDRIQVLTYLFQVGLVAVLDSLGLQPNAIIGHSVGE
+                     IAAAVTAGCLTPKEGALIVTKRAKLYQSMIGLGAMAVVYRPFEEMKQELDVRTDIVAA
+                     INSSPSSCVLSGDLQPLETFCKSLNDRGIKTMRVRTDIAFHHPNLTALVEPLIIALGG
+                     LL"
+ORIGIN      
+        1 atggataacg atatcgcagt cgttggcatg gcatgccgac ttcctggtgg aactaacagc
+       61 cccaacgagt tgtgggagat gattatggaa aagcacgaag cctcaagcga gatcccaagc
+      121 atgcgatggg agccgtacat gaaaacagat gttcgaaaca ctgaggtact tgagaagtta
+      181 cccaagcgag ggtacttctt ggacaacttg gaggacttcg atgccgcgtt tttcggcata
+      241 tcgcccaagg aagctgaaca attggacccc caacaaagaa tagtcctcga ggttgcttgg
+      301 gaggccctgg aaagggcagg agtcccacct caatgccttt ctgggtccga tactggagtc
+      361 ttcttaggcg taaactccaa tgattattct cacttggtcc ttgaagatct cccccgcctg
+      421 gagccctgga tggggattgg tacggcctat tgtggtgttc caaaccgtgt ctcttaccaa
+      481 ctcgatctga tgggaccaag tatggcagtt gatgcagcgt gtgcatcctc gctggttgct
+      541 gttcatctcg gaaggcaggc tattcttcag ggagagtgca aggtggccat agtgggaggt
+      601 gtgaatgcta tgtgccaccc ggggatgact gtggttcttg acagagccgg tgccacctct
+      661 gaagaaggca tctgccaatc attcgatgat gctgcacatg ggtatggccg gggcgagggt
+      721 gctgccatta tcattttgaa gagcattgag gatgctatta atgacaagga tgatatcctt
+      781 gcgctcgtta aaggcagtgc cgttgctcaa gatggccgta cacaaggtat catggccccg
+      841 aattcggcag cacaggaact ggtcgctagg aaagctcttg gcactgctgg agtggatccg
+      901 gccacagtca actatgtcga agcccatgca acatctactc cagtggggga ttcaacggaa
+      961 atcacagcac tttcacgagt ttatggacat atgcgaaagt cagacaatcc atgctatatc
+     1021 ggctctgtga agcccaacat cggccatcta gaagctggtg ctggcgcggt tggctttatc
+     1081 aaatcagtca tgtcgattca tacgggtatc cttgcacccc aagccaactt ggaccagctc
+     1141 aactcgagca tcgattgggc tggcgctggc ctacaggtgg ttcaagattc ccagcaatgg
+     1201 ccgagctcag acgcaccgcg ccgcgccgga gtctccagct atggctacgg aggaacagtt
+     1261 tcgcatgtca tcctcgaaca gtacacgccg ccaccatttg aagataagca gagccagtca
+     1321 gacggcccac aaatccttct cttatcagca ccgcacgaga accgtatcag tgcccaggcc
+     1381 aacgtgttgt ctttttggat gaatgatgcc ggaaagaaca atgccctgtc acgtatcgca
+     1441 acaacattgg ccattcgcag aggacatcat actcaccgag cggctttagt ggtggacaac
+     1501 caccatgatg ccatcgaaaa acttaggtca ctttccgaag atgtctccac ggaatgggtc
+     1561 acgaagaatc gggttctgac caaagacact cgcaaagacg ttacatttgt tttttccggc
+     1621 catggtgcac agtgggcgga tatggggaag caactgcttc acaaccgtat gttctatgat
+     1681 actgtcgctt ctctcgatcc cattgtgaaa gctgaaatgg aattttctgc tttggattcc
+     1741 tttgaaagtg gagatttcat ggcctccgat cggatccagg ttctcaccta tttatttcaa
+     1801 gtgggactcg tcgctgttct tgattcattg ggtctacagc ccaatgcgat aattggccat
+     1861 tcagtaggag agatcgccgc tgcggttact gccggctgtc tcacacctaa agagggagcg
+     1921 ttgattgtta ccaaacgggc caagctgtac cagagcatga taggcttagg agcaatggct
+     1981 gtcgtttaca ggccatttga agagatgaag caagagctag acgtgcgcac agacatcgtt
+     2041 gccgccataa actcttcgcc atcttcatgt gtcttatctg gagacttgca acccctggag
+     2101 acattctgca agtccttgaa tgaccgaggc atcaagacaa tgagggtaag gacggacatt
+     2161 gccttccacc atcccaacct cacagcactt gtcgagcctt tgattatcgc tcttggaggc
+     2221 cttcttg
+//
+

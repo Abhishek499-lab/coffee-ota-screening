@@ -1,0 +1,71 @@
+LOCUS       AY272043                1508 bp    DNA     linear   PLN 25-JUL-2016
+DEFINITION  Aspergillus ochraceus polyketide synthase gene, partial cds.
+ACCESSION   AY272043
+VERSION     AY272043.1
+KEYWORDS    .
+SOURCE      Aspergillus ochraceus
+  ORGANISM  Aspergillus ochraceus
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae;
+            Aspergillus; Aspergillus subgen. Circumdati.
+REFERENCE   1  (bases 1 to 1508)
+  AUTHORS   O'Callaghan,J., Caddick,M.X. and Dobson,A.D.
+  TITLE     A polyketide synthase gene required for ochratoxin A biosynthesis
+            in Aspergillus ochraceus
+  JOURNAL   Microbiology (Reading, Engl.) 149 (PT 12), 3485-3491 (2003)
+   PUBMED   14663081
+REFERENCE   2  (bases 1 to 1508)
+  AUTHORS   O'Callaghan,J.J. and Dobson,A.D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-APR-2003) Microbiology, University College Cork,
+            College Road, Cork, Ireland
+FEATURES             Location/Qualifiers
+     source          1..1508
+                     /organism="Aspergillus ochraceus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40380"
+     mRNA            <1..>1508
+                     /product="polyketide synthase"
+     CDS             <1..>1508
+                     /note="acyl transferase domain"
+                     /codon_start=1
+                     /product="polyketide synthase"
+                     /protein_id="AAP32477.1"
+                     /translation="KVTPTTVVGHSSGEIAAAYCAGKISRQAAWKIAYCRGQVCAKQT
+                     HEDGRMLAAAMPAQELERLLARLNKGLCSAVQVGCYNSPKNLTLTGQHESILQVKGEL
+                     DEAGVLNRLLPVKVAYHSKFMREVAPEYLELLGDLDFGDKMTDHAKVTMISSVTGRHA
+                     LAGEVESPSYWVDNLISPVRFSTALLTSMQTQSQKSPSDNALIEIGPHSTLRTAINET
+                     LADQPTLQPFQYGSLLKRYETDGTTSLRTFDLLTSYGYDVSLASVNDPRSKIKKAPHM
+                     ITDLPPYSFDHSRSVRGQSRRIKNIKFPAYERHELLGAPVEDTNKFEQRWRNIIRPDD
+                     ITWLRMNRVSTSYKIMSPSNVSQMDGSIHFPGVAYLLMAMEAIMQRTGMTECVTGIRI
+                     GNVAMLAPLPVPDTPEGVEIIFSIYPMNESARATDDWCTFRVISHEGVENSWIEHCVG
+                     SVRIETGEQRISAPPVDSQLSICSEAVDINQMYRDFASAGMEFGDFLKNIRS"
+ORIGIN      
+        1 aaggtgacgc caacaacggt agtaggacat tcgtccggcg aaattgcagc agcgtattgt
+       61 gcgggaaaaa tctcacgtca agcagcatgg aaaatcgcct actgtcgagg acaggtttgt
+      121 gcaaaacaga cacacgaaga tggccgcatg ctcgcagcgg ctatgcctgc acaggaattg
+      181 gaacgactgt tagctcgttt gaacaaaggt ctatgctctg cggttcaggt cggatgttat
+      241 aacagcccca agaacttgac cctgacaggc caacacgaga gcattcttca ggtcaagggc
+      301 gagttagacg aagcgggtgt gctaaaccgt ttacttccag ttaaggttgc ttatcactcg
+      361 aaattcatgc gagaagtcgc tccagagtac ttagagctcc tcggggacct ggatttcggt
+      421 gacaagatga ccgaccatgc caaagttact atgatatcct cggttacggg acgacatgca
+      481 ctcgcagggg aggttgagag tccttcgtac tgggttgata atctgatctc acctgtccgt
+      541 ttctctactg cgcttctcac atccatgcaa acacaaagtc aaaagtcacc cagcgataac
+      601 gcactgattg aaatcggacc tcattctact ctccgcaccg ccatcaatga gacccttgcg
+      661 gatcaaccta cactgcagcc gtttcaatac ggtagtctgc tcaagcgata tgagactgac
+      721 ggaacgacaa gcctgcgcac attcgatttg ttgacctctt atggctatga tgttagcctg
+      781 gcttctgtta atgatcctcg atcaaaaatt aagaaagctc ctcatatgat aacggatctt
+      841 ccgccttact cctttgacca ctcacggtcg gttcgcggcc agtctcgaag aatcaaaaac
+      901 atcaagtttc cagcgtacga acgccatgag ctccttggtg cgccagttga agatacaaac
+      961 aaatttgagc aacgatggag gaacatcatt agaccggacg atattacatg gttgcgcatg
+     1021 aacagagtga gtacttccta taaaattatg agcccatcta acgtgagcca gatggatgga
+     1081 agtatccatt tccccggagt cgcctacctt ttgatggcca tggaggccat aatgcagcga
+     1141 actgggatga cagaatgtgt caccggcatt aggattggca atgtggctat gctggcccct
+     1201 ttgcctgttc ccgacacccc agaaggtgtc gagatcatct tttcgatcta cccgatgaac
+     1261 gagtcagccc gggccacaga tgactggtgc accttcagag ttatctccca tgaaggggtt
+     1321 gaaaattctt ggattgagca ctgcgttggt tcagttcgta tagaaacggg agagcagagg
+     1381 atatccgccc ctcctgttga cagccagttg tcaatatgtt ctgaagccgt cgatataaac
+     1441 caaatgtatc gagacttcgc ctctgcggga atggaatttg gcgacttcct gaaaaacatt
+     1501 cgaagcat
+//
+

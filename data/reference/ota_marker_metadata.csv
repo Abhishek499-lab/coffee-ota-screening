@@ -1,0 +1,6 @@
+accession,gene,function,species,evidence,download_status,local_genbank,error
+AY272043,otaA_PKS,polyketide_synthase,Aspergillus ochraceus / Aspergillus westerdijkiae,OTA-associated PKS sequence,success,data/reference/genbank/AY272043.gb,
+AY196315,otapksPN,polyketide_synthase,Penicillium nordicum,OTA biosynthetic PKS,success,data/reference/genbank/AY196315.gb,
+AY534879,otanpsPN,nonribosomal_peptide_synthetase,Penicillium nordicum,OTA biosynthetic NRPS,success,data/reference/genbank/AY534879.gb,
+AY583209,aoks1,polyketide_synthase,Aspergillus westerdijkiae,OTA-associated PKS,success,data/reference/genbank/AY583209.gb,
+DQ054596,p450-B03,cytochrome_P450,Aspergillus westerdijkiae,OTA-associated P450,success,data/reference/genbank/DQ054596.gb,

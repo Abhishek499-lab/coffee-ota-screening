@@ -1,0 +1,23 @@
+{
+  "project": "coffee-ota-screening",
+  "stage": "v31.3",
+  "source_project_untouched": true,
+  "github_push_performed": false,
+  "tracked_files": 36,
+  "pytest_passed": true,
+  "syntax_failures": 0,
+  "missing_core_files": 0,
+  "missing_evidence_files": 8,
+  "dataset_qc_failures": 1,
+  "reference_panel_failures": 0,
+  "blast_build_failures": 0,
+  "files_over_50mb": 0,
+  "blast_binary_files": 0,
+  "python_cache_files": 0,
+  "documentation_failures": 0,
+  "requirements_failures": 1,
+  "commit_created": false,
+  "head_commit": "",
+  "working_tree_clean": false,
+  "final_status": "REVIEW_REQUIRED"
+}

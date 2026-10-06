@@ -1,0 +1,88 @@
+LOCUS       AY583209                2017 bp    DNA     linear   PLN 26-JUL-2016
+DEFINITION  Aspergillus ochraceus polyketide synthase 1 gene, partial cds.
+ACCESSION   AY583209
+VERSION     AY583209.1
+KEYWORDS    .
+SOURCE      Aspergillus ochraceus
+  ORGANISM  Aspergillus ochraceus
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae;
+            Aspergillus; Aspergillus subgen. Circumdati.
+REFERENCE   1  (bases 1 to 2017)
+  AUTHORS   Bacha,N., Atoui,A., Mathieu,F., Liboz,T. and Lebrihi,A.
+  TITLE     Aspergillus westerdijkiae polyketide synthase gene 'aoks1' is
+            involved in the biosynthesis of ochratoxin A
+  JOURNAL   Fungal Genet. Biol. 46 (1), 77-84 (2009)
+   PUBMED   18955151
+REFERENCE   2  (bases 1 to 2017)
+  AUTHORS   Dao,H.P., Mathieu,F. and Lebrihi,A.
+  TITLE     Cloning and characterization of a polyketide synthase gene (AoKS1)
+            in Aspergillus ochraceus NRRL 3174
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 2017)
+  AUTHORS   Dao,H.P., Mathieu,F. and Lebrihi,A.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (23-MAR-2004) Equipe 'Genie des systemes microbiens',
+            Laboratoire de Genie Chimique UMR 5503 (CNRS/INPT/UPS), ENSAT/INPT,
+            1 av de l'Agrobiopole, Castanet Tolosan 31326, France
+FEATURES             Location/Qualifiers
+     source          1..2017
+                     /organism="Aspergillus ochraceus"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:40380"
+     mRNA            join(<1..1039,1095..>2017)
+                     /product="polyketide synthase 1"
+     CDS             join(<1..1039,1095..>2017)
+                     /note="keto-synthase and acyl transferase domain; KS1"
+                     /codon_start=1
+                     /product="polyketide synthase 1"
+                     /protein_id="AAT92024.1"
+                     /translation="REALAMDPQQRVLLETVYEAVEAAGLRLEDLRGSPTGIFCGVMC
+                     DDYQTIQQRDVSELPHYTATGTARSITSNRVSYFFDWHGPSMTIDTACSSSLVALHLA
+                     AKALHDGECRVVVASGTNLILAPNMYISESKLSMLSPHGRSRMWDAGADGYARGEGVA
+                     AVALKRLSDAIADGDAIECIIPATHINQDGRSMGITMPSSTAQTDLIRSTYRKAGLDP
+                     ANPRDRCQYFEAHGTGTPAGDPQEASAIHAAFFPNPVDDKSDPDNRLFVGSAKTVVGH
+                     TEGTAGLAALIKGVMSLQHGVVAPNLHFERLNPAIEPYTRQLRVPTDCQPWPQLPEGT
+                     PRRVSVNSFGFGDNNEWDGIIPFVFTAPSDKALGNVLTAYVDYLDGQQPTANLGDLAW
+                     TLYRRRTTFSHRVALWAASARDLQNRLREEVARRGSNQASTVISKPRTDRPKVLGVFT
+                     GQGAQWAQMGLDLVQRSPDAEKWLTTLQMALDGLPDEYRPAYSILDELCAESEKSRLH
+                     LAEISQPLCTAVQIVLVKFLRSLGIDLNAVVGHSSGEIAAAYAAGIVSEIEAIRIAHL
+                     RGHVTSLAGCNGQPGSMLAVGMSPDEADQVCQSAVYTGRIKPAAVNSSSSITLSGDAD
+                     AIVALEAQLKDEGIFARRLKVNMAYHSHHM"
+ORIGIN      
+        1 agggaggcgc tggcgatgga tccgcagcag cgtgttctgc tggagacagt ctacgaagcc
+       61 gtcgaggccg ccggtctgcg gctggaagac ctcaggggat cgcccacagg tatcttctgt
+      121 ggtgtgatgt gtgacgacta tcagacgatc cagcagcgcg acgtctcaga attaccgcat
+      181 tacacggcta caggaacagc gcgttcgatc acctcaaacc gcgtctccta ctttttcgac
+      241 tggcacggcc cctctatgac cattgatacc gcctgctcat ctagcctggt tgctctacat
+      301 ttggcggcca aagcattgca cgacggtgaa tgccgcgtcg tagtcgcctc cgggacaaac
+      361 ctgatcttgg ccccaaacat gtacatttcc gaatccaaat tgagtatgct gtcgccgcac
+      421 ggccgcagtc gtatgtggga tgccggcgca gatggctacg cgcgtggcga aggtgtcgca
+      481 gccgtagccc tcaagcgact cagcgacgct atcgccgacg gcgacgctat cgaatgcatt
+      541 attcctgcta cccatatcaa ccaggatggt cgcagcatgg gtatcacgat gccctcttcc
+      601 actgcccaaa ccgacctgat ccggtcgacc taccggaagg ccggcctaga tccagccaat
+      661 ccgcgggatc gatgccagta ttttgaagcc cacgggacag gaactccagc tggcgatccc
+      721 caagaagcgt ctgcgataca cgcggctttc tttcctaacc cagttgacga caagagcgac
+      781 ccggataatc ggttgtttgt gggctcggcg aagaccgtcg tgggccatac cgaaggcacg
+      841 gccggccttg cagcgttgat taaaggtgta atgagcctgc aacacggtgt agtggcgccg
+      901 aacttgcact tcgaacgatt gaacccggct attgaaccct atacccgcca gttgcgtgtc
+      961 ccgacagact gtcagccctg gccacagcta cccgagggca cgccgcgacg agtttcggtc
+     1021 aattcattcg gattcggcgg taccaacgcc cacgcgattc tagaggcgta tagccctacc
+     1081 ctgtcagacg tcagacaaca atgaatggga cggcattatc ccgttcgtct ttactgcacc
+     1141 gtcggataag gcgctcggaa atgtcttgac cgcatacgtg gattatctgg acggccagca
+     1201 accaacggcc aatctgggag atttggcatg gacgttatac cgccgacgga ccacattctc
+     1261 tcaccgagtc gctttatggg cggcatccgc gcgtgatctg caaaaccggc tgcgcgagga
+     1321 agtcgcgagg cgtgggtcga accaggcctc cacagtgatt tccaagcctc gaaccgatcg
+     1381 acccaaggta ctaggagtat ttactgggca gggtgctcag tgggcacaga tgggcctaga
+     1441 tttggtgcaa cggagccctg acgcggagaa atggctgact accttgcaaa tggctttgga
+     1501 cggtctcccc gacgagtacc ggcccgcgta ctcgatacta gacgagttat gcgctgagtc
+     1561 agagaaatca cggctacacc tggcagagat ctcgcagcca ctgtgcacag cagtacagat
+     1621 tgttcttgtt aaattcctcc gctcacttgg catagatctg aatgctgttg tcggccactc
+     1681 ctcgggcgaa atcgcggctg cctacgctgc aggaatagtt tcagaaatag aggcaattcg
+     1741 cattgcccac ctccgcggcc acgtcacctc actggcagga tgtaacgggc agcctggaag
+     1801 catgctggcc gttggcatgt ccccggacga ggccgatcag gtctgccaga gcgcggtgta
+     1861 cacgggtcgc atcaagcctg cggcggtgaa ctcgtcgtct agcatcacgc tgtcgggaga
+     1921 tgcggacgct atagtggccc ttgaggcgca gttgaaggac gaaggcatct tcgcgcgccg
+     1981 cctgaaagtc aatatggcct accactccca ccacatg
+//
+

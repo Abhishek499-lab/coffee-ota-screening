@@ -1,0 +1,48 @@
+OTA CONTAMINATION — FINAL STATISTICAL REPORT v28
+====================================================
+
+DATASET
+Total samples: 65
+Detected: 53
+Below LOD: 12
+LOD: 0.23 ug/kg
+
+OVERALL DETECTED CONCENTRATIONS
+Mean: 1.755472 ug/kg
+Median: 1.220000 ug/kg
+SD: 2.580664 ug/kg
+Min: 0.260000 ug/kg
+Max: 19.110000 ug/kg
+Q1: 0.770000 ug/kg
+Q3: 1.980000 ug/kg
+IQR: 1.210000 ug/kg
+
+MASTER STATISTICAL INTERPRETATION
+---------------------------------
+Across 65 published Turkish coffee samples, OTA was detected in 53 samples (81.5%), while 12 samples were below the 0.23 µg/kg detection limit. Detection prevalence did not differ significantly across 2021–2024. The primary full-data censored model found no significant overall year effect on OTA concentration, and an independent nonparametric cross-check likewise found no significant year-associated distributional difference. Some detected-only exploratory analyses showed year-pair differences, but these should not be interpreted as evidence of a demonstrated temporal increase.
+
+REGULATORY SCREENING
+---------------------
+At a 3.0 µg/kg screening threshold, 3 samples exceeded the threshold (2021_02, 2022_11 and 2022_15). At 5.0 µg/kg, one sample exceeded the threshold (2022_11, 19.11 µg/kg). Threshold interpretation depends on the applicable product category and regulation and should not be generalized beyond the relevant regulatory context.
+
+KEY MODEL RESULTS
+-----------------
+v24 full censored model: p=0.6781
+v25.2 detection model: p=0.8027
+v25.2 detected concentration model: p=0.1405
+v27 nonparametric cross-check: p=0.1425
+v27 sensitivity excluding 19.11: p=0.0809
+
+FINAL CONCLUSION
+----------------
+Across 65 published Turkish coffee samples, OTA was detected in 53 samples (81.5%), while 12 samples were below the 0.23 µg/kg detection limit. Detection prevalence did not differ significantly across 2021–2024. The primary full-data censored model found no significant overall year effect on OTA concentration, and an independent nonparametric cross-check likewise found no significant year-associated distributional difference. Some detected-only exploratory analyses showed year-pair differences, but these should not be interpreted as evidence of a demonstrated temporal increase.
+
+LIMITATIONS
+-----------
+1. The published OTA dataset is not sequence-paired.
+2. The concentration analysis therefore cannot establish a sequence-to-OTA quantitative relationship.
+3. Below-LOD observations are left-censored and their exact concentrations are not known.
+4. The detected-only analyses are conditional on OTA detection and should not replace the full censored analysis.
+5. The dataset contains only four sampling years and therefore does not establish a long-term temporal trend.
+6. The 19.11 µg/kg observation is an extreme detected value; sensitivity analyses were therefore performed.
+7. The computational BLAST pipeline developed separately in this project is a pre-screen/triage tool and does not prove OTA toxin production.

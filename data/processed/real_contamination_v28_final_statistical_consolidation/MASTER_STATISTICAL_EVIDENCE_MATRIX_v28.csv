@@ -1,0 +1,10 @@
+analysis_id,analysis_type,data_handling,n_used,key_result,p_value,significant_at_0.05,final_role
+v21,Descriptive statistics,Detected samples,53,Detected OTA range 0.26–19.11 µg/kg; median 1.22 µg/kg,,,Descriptive
+v22,Kruskal-Wallis,Detected samples only,53,Year-associated difference detected,0.0163995708,True,Exploratory detected-only signal
+v23,Effect sizes + bootstrap,Detected samples only,53,Some year-pair differences; effect sizes varied by comparison,,,Exploratory detected-only analysis
+v24,Censored lognormal likelihood model,All 65; 12 left-censored,65,No overall year effect,0.6780616832,False,Primary full-data model
+v25.2A,Two-part detection model,All 65,65,No year effect on detection probability,0.802714463,False,Primary supporting model
+v25.2B,Detected concentration model,53 detected samples,53,No overall year effect,0.1405330748,False,Supporting model
+v25.2S,Outlier sensitivity,53 detected minus 19.11,52,Year effect detected in detected-only sensitivity model,0.0058595896,True,Sensitivity only
+v27,Nonparametric rank permutation,All 65; 12 left-censored,65,No overall year-associated distributional difference,0.1424857514,False,Independent nonparametric cross-check
+v27S,Nonparametric sensitivity,64 samples; 19.11 removed,64,No significant year-associated difference,0.0808919108,False,Outlier sensitivity cross-check

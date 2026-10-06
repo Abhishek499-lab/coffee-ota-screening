@@ -1,0 +1,6 @@
+header,length_nt,GC_percent,N_count,invalid_bases,valid_sequence
+AY272043|otaA_PKS|polyketide_synthase|Aspergillus_ochraceus_/_Aspergillus_westerdijkiae,1508,49.34,0,,True
+AY196315|otapksPN|polyketide_synthase|Penicillium_nordicum,2227,51.5,0,,True
+AY534879|otanpsPN|nonribosomal_peptide_synthetase|Penicillium_nordicum,2139,48.67,0,,True
+AY583209|aoks1|polyketide_synthase|Aspergillus_westerdijkiae,2017,58.11,0,,True
+DQ054596|p450-B03|cytochrome_P450|Aspergillus_westerdijkiae,463,50.54,0,,True

@@ -1,0 +1,6 @@
+blast_id,accession,gene,function,species,original_header,sequence_length_nt
+OTA001,AY272043,otaA_PKS,polyketide_synthase,Aspergillus ochraceus / Aspergillus westerdijkiae,AY272043|otaA_PKS|polyketide_synthase|Aspergillus_ochraceus_/_Aspergillus_westerdijkiae,1508
+OTA002,AY196315,otapksPN,polyketide_synthase,Penicillium nordicum,AY196315|otapksPN|polyketide_synthase|Penicillium_nordicum,2227
+OTA003,AY534879,otanpsPN,nonribosomal_peptide_synthetase,Penicillium nordicum,AY534879|otanpsPN|nonribosomal_peptide_synthetase|Penicillium_nordicum,2139
+OTA004,AY583209,aoks1,polyketide_synthase,Aspergillus westerdijkiae,AY583209|aoks1|polyketide_synthase|Aspergillus_westerdijkiae,2017
+OTA005,DQ054596,p450-B03,cytochrome_P450,Aspergillus westerdijkiae,DQ054596|p450-B03|cytochrome_P450|Aspergillus_westerdijkiae,463

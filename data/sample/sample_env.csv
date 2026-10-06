@@ -1,0 +1,6 @@
+batch_id,humidity_pct,storage_days,temperature_c,origin_region
+batch_001,78,45,28,Karnataka
+batch_002,55,10,22,Kerala
+batch_003,82,60,30,Karnataka
+batch_004,48,5,20,Tamil_Nadu
+batch_005,70,30,26,Kerala

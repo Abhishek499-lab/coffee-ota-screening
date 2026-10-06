@@ -1,0 +1,2 @@
+production_identity_threshold_pct,production_coverage_threshold_pct,production_alignment_threshold_nt,evalue_threshold,sequence_evidence_weight,environment_evidence_weight,high_risk_threshold,ota_reference_database,validation_biological_challenge_n,validation_biological_false_hits,validation_computational_negative_n,validation_computational_negative_hits,role
+80,90,100,1e-05,0.6,0.4,0.6,/content/drive/MyDrive/Company/tools/blast/ota_reference_db/ota_markers,13,0,133,0,pre-screen / triage

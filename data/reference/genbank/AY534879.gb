@@ -1,0 +1,92 @@
+LOCUS       AY534879                2139 bp    DNA     linear   PLN 25-OCT-2005
+DEFINITION  Penicillium nordicum ochratoxin A non-ribosomal peptide synthetase
+            (nps) gene, complete cds.
+ACCESSION   AY534879
+VERSION     AY534879.1
+KEYWORDS    .
+SOURCE      Penicillium nordicum
+  ORGANISM  Penicillium nordicum
+            Eukaryota; Fungi; Ascomycota; Pezizomycotina; Eurotiomycetes;
+            Eurotiales; Trichocomaceae; mitosporic Trichocomaceae; Penicillium.
+REFERENCE   1  (bases 1 to 2139)
+  AUTHORS   Karolewiez,A. and Geisen,R.
+  TITLE     Cloning a part of the ochratoxin A biosynthetic gene cluster of
+            Penicillium nordicum and characterization of the ochratoxin
+            polyketide synthase gene
+  JOURNAL   Syst. Appl. Microbiol. 28 (7), 588-595 (2005)
+   PUBMED   16156116
+REFERENCE   2  (bases 1 to 2139)
+  AUTHORS   Karolewiez,A. and Geisen,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JAN-2004) Institute for Hygiene and Toxicology,
+            Federal Research Centre for Nutrition and Food, Haid-und-Neu-Str.
+            9, Karlsruhe, BW 76131, Germany
+COMMENT     [WARNING] On Nov 8, 2005 this sequence was replaced by AY557343.2.
+FEATURES             Location/Qualifiers
+     source          1..2139
+                     /organism="Penicillium nordicum"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:229535"
+     gene            <1..>2139
+                     /gene="nps"
+                     /note="npsPN"
+     mRNA            <1..>2139
+                     /gene="nps"
+                     /product="ochratoxin A non-ribosomal peptide synthetase"
+     CDS             1..2139
+                     /gene="nps"
+                     /codon_start=1
+                     /product="ochratoxin A non-ribosomal peptide synthetase"
+                     /protein_id="AAS98174.1"
+                     /translation="MGFALLIMAVFHGIPCVILPDKPLSADLVSSVLSSTQPTAALFP
+                     PSILEDLSANSESMHAISKLKRVYFGGGPLSPEVGRKVSECTQLVSFLGMTEGGFVLS
+                     LLPQNGDWSYFEWSPTFGIEMEHVENGLREMVLCRHEKPELQPVFHTFPDLECYHTKD
+                     LYSPHPTIPNLWKFHGRLDDVIVLNNGEKFNPVTMEKVIEGHPLVARAVVVGLGRFQT
+                     ALLIEPSWNKWDAVPPGNNLIDIVWPKVQEANRISPAHGHVMKNKIALASKDKPFAMT
+                     PKGSTQRRLVTDSYKDEVEKLYTLPGVEEIPFTLPPSPEFPNIVEFARNLVFYVSDII
+                     SCADDANLYDVGLDSLRTIQLASALRATGFQDITPQMIYMHPSIEEIAILLQGILCGT
+                     QKQTISRREKIDRLVTKYTTDLPQQNYVHNVCGTDILTVALTGSTGSLGSYLLDSLRS
+                     DKTVGKVYCLTRDGKEERQRKAFQERGLDPTIPDKVEFVQTSLGEHQLGIDDATYQEM
+                     LRSVDTVIHNAWRMDFNISVDSFEHVHIRAMRNLIEFSIKSAHRAHIHFLSSIGAIGG
+                     WTILNGPVIPELPFEDCDVALRQGYGEAKHICERICLAATQTAGVPTSIHRLGQIAGP
+                     RTESGFWNVQEWLPAIVATSKFLGKIPSTLGEFQVDWVPVVRDNMRSHNIHANQGPAF
+                     LYRTCFLRLLWKSFTPAKRHSEKVVSRFFT"
+ORIGIN      
+        1 atgggatttg cgttgcttat catggccgtg ttccatggaa ttccgtgcgt gatcctacca
+       61 gacaagccgc tatcagcgga cctagtgagc agcgtacttt ccagtactca gcctaccgca
+      121 gcacttttcc ctccatctat cctagaggac ctttctgcaa attccgaatc gatgcatgcc
+      181 atctccaaac tcaagcgtgt gtatttcggc ggtggacccc tctctcccga ggtcggccgc
+      241 aaggtcagtg aatgtactca acttgttagc ttccttggaa tgacagaggg cggcttcgtg
+      301 ttgtcccttc taccgcagaa cggagactgg tcttactttg agtggagtcc aacatttggt
+      361 attgaaatgg aacacgtcga gaatggacta cgtgagatgg tcttatgccg acacgaaaaa
+      421 cctgaacttc agccagtttt ccacacattc cccgatctag aatgctatca cacaaaggat
+      481 ttgtactcgc cacatccaac tatccccaac ctgtggaagt tccatggtcg tttggacgat
+      541 gtgattgtgc ttaataatgg cgagaagttc aacccagtca caatggagaa ggttattgag
+      601 ggacatccct tggtagctcg agcggttgtc gttgggctcg gtagattcca aacagccctg
+      661 ttgatcgagc cgagctggaa taaatgggat gctgttcccc cggggaataa cttgattgac
+      721 attgtctggc cgaaagtgca ggaggctaat cgtatcagcc cggcacatgg acatgtcatg
+      781 aaaaataaaa tcgcactagc atccaaagac aaacctttcg ccatgacacc aaaaggaagc
+      841 acccagcgaa gacttgtgac agacagttac aaggacgaag ttgaaaaact ctacacctta
+      901 cccggtgtgg aagagatacc atttaccctg ccgccctctc cagagttccc aaacatcgtc
+      961 gaatttgctc gaaatcttgt gttctatgtt tcggatatca tttcatgtgc agatgatgcc
+     1021 aatctttacg acgtcggact tgactcattg cgcaccatac agctggcgtc tgccctccgg
+     1081 gcaaccgggt tccaggatat aactccgcaa atgatctata tgcaccctag catcgaagag
+     1141 atcgcgattc tcctacaggg tattctatgt gggacacaga aacagacaat ttcaaggcgt
+     1201 gaaaagatcg accggctggt cacaaagtat acgactgatc tcccacaaca gaactatgtc
+     1261 cacaatgtgt gcggtacgga cattcttacc gtggcactca caggatccac tgggtcactt
+     1321 ggcagctatt tgcttgattc cttgcgatct gataagactg taggcaaggt gtactgctta
+     1381 acaagagatg ggaaggaaga aaggcaacga aaagcgtttc aagaacgtgg tctggacccg
+     1441 accatccctg ataaggttga atttgttcaa acatccctgg gcgaacatca gctcggcatt
+     1501 gatgatgcca catatcagga gatgcttcga tctgttgata ctgtcataca caatgcctgg
+     1561 aggatggact ttaacatttc tgtcgattca ttcgaacatg ttcatatccg agctatgcgc
+     1621 aatctgatag aatttagtat aaagagtgcg catcgagctc acatacattt cctctcttcc
+     1681 atcggagcca tcggaggatg gacgatactc aatgggcctg tcattcctga gcttccattc
+     1741 gaggattgcg atgttgcact tcgccaggga tatggagagg caaagcatat atgtgagcgc
+     1801 atctgtttgg ccgccactca aacggccggg gtaccaacta gcattcatcg cctgggacaa
+     1861 attgccggac cgcgcacgga aagtggtttt tggaatgtgc aggaatggct gcccgccatt
+     1921 gtggccacct ccaagtttct cggcaaaatc ccgtcgactc taggagaatt ccaggtcgat
+     1981 tgggttccag tggtaaggga taacatgaga tcacataata tacatgctaa tcaagggcct
+     2041 gcttttcttt ataggacctg ctttctaaga ttgttgtgga aatcgttcac acccgccaaa
+     2101 agacacagcg agaaagtcgt ttctcggttt ttcacctag
+//
+

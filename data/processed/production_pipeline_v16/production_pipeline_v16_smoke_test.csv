@@ -1,0 +1,2 @@
+batch_id,sequence_length_nt,sequence_qc_pass,humidity_pct,storage_days,temperature_c,origin_region,molecular_category,best_identity_pct,best_query_coverage_pct,best_alignment_nt,best_evalue,best_bitscore,sequence_evidence_score,environment_score,sequence_weight,environment_weight,final_triage_score,risk_category,interpretation
+V16_DEMO_001,99,True,75,90,25,DEMO,NO_MOLECULAR_EVIDENCE,0.0,0.0,0,,0.0,0.0,0.525,0.6,0.4,0.21000000000000002,LOW_RISK_TRIAGE,Computational pre-screen / triage only; laboratory confirmation required.

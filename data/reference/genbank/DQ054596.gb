@@ -1,0 +1,44 @@
+LOCUS       DQ054596                 463 bp    mRNA    linear   PLN 20-APR-2006
+DEFINITION  Aspergillus ochraceus P450 monoxygenase mRNA, partial cds.
+ACCESSION   DQ054596
+VERSION     DQ054596.1
+KEYWORDS    .
+SOURCE      Aspergillus ochraceus
+  ORGANISM  Aspergillus ochraceus
+            Eukaryota; Fungi; Dikarya; Ascomycota; Pezizomycotina;
+            Eurotiomycetes; Eurotiomycetidae; Eurotiales; Aspergillaceae;
+            Aspergillus; Aspergillus subgen. Circumdati.
+REFERENCE   1  (bases 1 to 463)
+  AUTHORS   O'Callaghan,J., Stapleton,P.C. and Dobson,A.D.
+  TITLE     Ochratoxin A biosynthetic genes in Aspergillus ochraceus are
+            differentially regulated by pH and nutritional stimuli
+  JOURNAL   Fungal Genet. Biol. 43 (4), 213-221 (2006)
+   PUBMED   16517184
+REFERENCE   2  (bases 1 to 463)
+  AUTHORS   O'Callaghan,J.J. and Dobson,A.D.W.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (06-MAY-2005) Microbiology, University College Cork,
+            College Road, Cork, Ireland
+FEATURES             Location/Qualifiers
+     source          1..463
+                     /organism="Aspergillus ochraceus"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:40380"
+     CDS             <1..>463
+                     /codon_start=1
+                     /product="P450 monoxygenase"
+                     /protein_id="AAY58081.1"
+                     /translation="EVQRIQSLIQSKLQKLNTRLSEYAHSGEPLKVDVAFNCFTADII
+                     TSYTSFRAFNYLDDPEMVPIWSETIKNLVEIGMIARHLPGFFPLLASMGMKWVKRVYP
+                     KLLPVIAFRMKCAQEVNFMWENEEEAKLDFEKNRLSQEPALFQEMVAKAPDT"
+ORIGIN      
+        1 gaggtacagc gtattcagtc actcattcag agtaaacttc agaaactgaa tacccggttg
+       61 agcgagtatg ctcactcggg ggagccccta aaagtagacg tcgcattcaa ctgtttcacc
+      121 gccgacatta tcacctctta tacgagcttc cgtgcgttca actacctaga cgaccccgag
+      181 atggtcccta tatggagtga aacaattaag aacctcgtcg agatcggaat gatcgcccgg
+      241 catcttccgg gatttttccc tcttctggcg agcatgggaa tgaagtgggt caagcgggtt
+      301 tatcccaagt tgctccctgt gattgcattt cgaatgaaat gtgcccagga ggtgaacttc
+      361 atgtgggaga acgaagaaga ggcgaagcta gactttgaga aaaacagact ctcccaggaa
+      421 ccggcgcttt tccaggaaat ggtcgccaaa gcccccgata ccc
+//
+
