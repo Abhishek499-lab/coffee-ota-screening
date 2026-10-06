@@ -7,3 +7,4 @@ scikit-learn>=1.3
 # feature_extraction.py to use real local BLAST+ (see README).
 # biopython>=1.81
 matplotlib
+pytest

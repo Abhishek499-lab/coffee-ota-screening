@@ -336,7 +336,7 @@ The real contamination dataset incorporated in this project is derived from:
 
 DOI:
 
-https://doi.org/10.3390/toxics18020084
+https://doi.org/10.3390/toxins18020084
 
 The original publication should be cited when reusing the processed dataset or findings derived from it.
 
@@ -378,3 +378,33 @@ A computational risk signal should be treated as a reason for further investigat
 
 **Repository:**  
 https://github.com/Abhishek499-lab/coffee-ota-screening
+
+
+## Data provenance and independent re-analysis
+
+The real-contamination dataset used in this repository was reconstructed
+from Table 1 of the published study:
+
+**Investigation of Ochratoxin A Levels in Commercially Available Turkish Coffee and Risk Assessment**
+
+- Journal: *Toxins*
+- DOI: `10.3390/toxins18020084`
+- Published source: PMC article [PMC12944870]
+- Source table: Table 1 — Amounts of OTA in Turkish coffee samples
+- Detection method reported by the study: HPLC fluorescence detection
+- Published dataset size: 65 Turkish coffee samples
+- OTA detected: 53 samples
+- Below LOD: 12 samples
+- LOD: 0.23 ng/g
+
+A row-level audit against the official PMC article reproduced all 65 sample
+observations exactly, including the year-wise sample counts, `<LOD` records,
+and the full detected concentration range (0.26–19.11 ng/g).
+
+The statistical analyses in this repository are **independent re-analyses**
+of the published observations. Their p-values and model results should not
+be interpreted as statistics reported by the original publication.
+
+This dataset is used here for reproducible computational analysis and does
+not represent newly generated laboratory measurements.
+
