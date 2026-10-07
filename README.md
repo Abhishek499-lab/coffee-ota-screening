@@ -83,16 +83,30 @@ sequences from relevant fungal sources.
 
 ### Validation results
 
-- Controlled positive controls: **5/5 detected**
-- Controlled unrelated negatives: **0/3 false hits**
-- Expanded computational negatives: **0/133 false hits**
-- Annotated biological challenge panel: **0/13 significant OTA-reference hits**
+The current public implementation uses executable BLASTN against the
+versioned OTA reference database.
 
-The biological challenge panel remains limited.
+Fresh executable validation was performed in V33:
 
-> **No significant OTA-reference BLAST hit was observed in the tested biological challenge panel.**
+- **V33.3:** 5/5 reference-derived positive controls detected; 0/3 computational negatives produced hits.
+- **V33.5:** 35 identity-calibration queries tested across 7 predefined identity levels (80%, 85%, 90%, 92%, 95%, 98%, and 100%).
+- **V33.6:** 0/13 annotated biological challenge sequences produced BLAST hits.
+- **V33.11:** 0/133 expanded historical negative controls produced BLAST hits or significant hits under the predefined R80_C90_L100 rule.
+- **V33.12:** consolidated master validation status = **PASS**.
 
-This does **not** establish universal biological specificity.
+These results establish reproducibility of the implemented computational
+BLAST workflow across the tested control panels. They do **not** establish
+biological or clinical sensitivity/specificity.
+
+> **No significant OTA-reference BLAST hit was observed in the tested
+> biological challenge panel or the 133-sequence expanded negative-control
+> panel.**
+
+The challenge and negative-control panels remain limited relative to the
+diversity of environmental and biological sequences that may occur in
+real-world coffee samples.
+
+This computational screening workflow should therefore be interpreted as a pre-screening or triage tool rather than a laboratory confirmation assay.
 
 ---
 
