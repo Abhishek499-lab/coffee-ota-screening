@@ -1,116 +1,40 @@
+# Project Progress
 
-# Project Progress — Coffee OTA Screening Pipeline
+## Current public release
 
-## Current stage
+- Repository: `coffee-ota-screening`
+- Current executable BLAST integration commit: `30bb99c64b2e1cb1ea2a4be1daef3f7c9e27081a`
+- BLAST+ sequence screening: implemented
+- Runtime OTA reference database construction: implemented
+- Canonical marker IDs: `OTA001`–`OTA005`
+- Intended role: computational pre-screening / triage
 
-Latest consolidated documentation stage: v29
+## Validation evidence status
 
+The executable workflow has been exercised in controlled and fresh-clone environments.
+Detailed V33 validation outputs are currently retained in the project validation
+environment but are not yet committed as public repository evidence.
 
-## COMPLETED
+Therefore, this public release intentionally does not claim specific V33.x PASS metrics
+as independently verifiable repository results.
 
-- Repository structure
-- Modular Python implementation
-- Configuration handling
-- Input validation
-- Sequence quality control
-- OTA reference sequence panel
-- Local BLAST database
-- BLAST-based sequence detection
-- Controlled positive validation
-- Controlled negative validation
-- Expanded computational negative controls
-- Biological near-neighbour challenge
-- Annotated CDS-level provenance audit
-- Production regression testing
-- Master sequence-validation consolidation
-- Published real OTA contamination dataset integration
-- Censored-data statistical analysis
-- Two-part contamination analysis
-- Nonparametric sensitivity analysis
-- Final statistical evidence consolidation
-- README documentation update
+**Current status: BLAST integration implemented; full validation evidence release pending.**
 
+## Scientific claim boundary
 
-## SEQUENCE VALIDATION
+Sequence similarity alone does not establish OTA toxin production.
 
-Current production candidate rule:
+Biological sensitivity and specificity have not been established by this repository.
 
-Identity >= 80%
-Query coverage >= 90%
-Alignment length >= 100 nt
-E-value <= 1e-5
+The workflow is a computational screening/triage layer and does not replace confirmatory
+laboratory testing.
 
-Validation results:
+## Next evidence-release step
 
-- Controlled positives: 5/5 detected
-- Controlled unrelated negatives: 0/3 false hits
-- Expanded computational negatives: 0/133 false hits
-- Biological challenge: 0/13 significant false hits
+A future evidence release should commit the reproducible validation artifacts, provenance
+information, and exact execution details needed for an independent reviewer to inspect
+the validation results.
 
-Interpretation:
+Generated during V33.53-R1.
 
-The sequence workflow has strong computational validation and a limited biological challenge panel.
-
-Universal biological specificity has NOT been established.
-
-
-## REAL CONTAMINATION DATASET
-
-Published laboratory dataset:
-
-- Total samples: 65
-- OTA detected: 53
-- Below LOD: 12
-- Detection limit: 0.23 microgram/kg
-- Sampling years: 2021–2024
-- Detected concentration range: 0.26–19.11 microgram/kg
-
-
-## FINAL STATISTICAL INTERPRETATION
-
-The consolidated analyses do not demonstrate a statistically significant temporal increase in OTA contamination.
-
-Primary results:
-
-- Full censored model: p = 0.678
-- Detection component: p = 0.803
-- Detected concentration component: p = 0.141
-- Nonparametric cross-check: p = 0.142
-- Sensitivity excluding 19.11 microgram/kg: p = 0.081
-
-Detected-only exploratory analyses showed some year-specific differences.
-
-These are not treated as proof of a temporal trend.
-
-
-## IMPORTANT SCIENTIFIC LIMITATION
-
-The real contamination dataset is not sequence-paired.
-
-Therefore:
-
-- no quantitative sequence-to-concentration model is claimed;
-- sequence similarity is not interpreted as proof of toxin production;
-- laboratory confirmation remains necessary.
-
-
-## NEXT VALIDATION PRIORITIES
-
-1. Expand independent biological challenge sequences.
-2. Obtain sequence-linked laboratory OTA measurements.
-3. Evaluate the production detector on independent blinded samples.
-4. Perform external validation on an independent dataset.
-5. Reassess thresholds after sufficiently large biological validation.
-
-
-## CURRENT PROJECT STATUS
-
-Repository: COMPLETE
-Computational pipeline: COMPLETE
-OTA reference database: COMPLETE
-Computational validation: COMPLETE
-Real contamination dataset: COMPLETE
-Statistical consolidation: COMPLETE
-Biological validation: LIMITED
-External biological benchmarking: PENDING
-Sequence-linked laboratory validation: PENDING
+The workflow is a computational screening/triage layer and does not replace confirmatory laboratory testing.

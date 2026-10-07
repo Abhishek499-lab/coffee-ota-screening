@@ -86,16 +86,11 @@ sequences from relevant fungal sources.
 The current public implementation uses executable BLASTN against the
 versioned OTA reference database.
 
-Fresh executable validation was performed in V33:
+The executable BLAST workflow is implemented in the public source tree.
+Detailed validation results are intentionally documented separately until the
+corresponding reproducibility artifacts are released.
 
-- **V33.3:** 5/5 reference-derived positive controls detected; 0/3 computational negatives produced hits.
-- **V33.5:** 35 identity-calibration queries tested across 7 predefined identity levels (80%, 85%, 90%, 92%, 95%, 98%, and 100%).
-- **V33.6:** 0/13 annotated biological challenge sequences produced BLAST hits.
-- **V33.11:** 0/133 expanded historical negative controls produced BLAST hits or significant hits under the predefined R80_C90_L100 rule.
-- **V33.12:** consolidated master validation status = **PASS**.
-
-These results establish reproducibility of the implemented computational
-BLAST workflow across the tested control panels. They do **not** establish
+These computational checks do **not** establish
 biological or clinical sensitivity/specificity.
 
 > **No significant OTA-reference BLAST hit was observed in the tested
@@ -422,3 +417,20 @@ be interpreted as statistics reported by the original publication.
 This dataset is used here for reproducible computational analysis and does
 not represent newly generated laboratory measurements.
 
+## Validation status
+
+The repository contains an executable BLAST+ sequence-screening implementation using
+`blastn` and runtime construction of the bundled OTA reference database.
+
+The implementation has been exercised in controlled and fresh-clone environments.
+However, detailed V33 validation output artifacts are not currently committed to this
+public repository. Therefore, specific V33.x PASS metrics are intentionally not presented
+here as independently verifiable public evidence.
+
+**Current public status: BLAST integration implemented; full validation evidence release
+pending — see `PROGRESS.md`.**
+
+The workflow is intended for computational pre-screening/triage and does not replace
+confirmatory laboratory testing. Sequence similarity alone does not establish OTA toxin
+production, and biological sensitivity/specificity have not been established by this
+repository.
