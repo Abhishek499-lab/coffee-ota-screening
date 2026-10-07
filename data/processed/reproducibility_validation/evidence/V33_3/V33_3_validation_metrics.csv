@@ -1,0 +1,2 @@
+total_controls,positive_controls,negative_controls,TP,FN,TN,FP,sensitivity,specificity,precision,F1,accuracy
+8,5,3,5,0,3,0,1.0,1.0,1.0,1.0,1.0

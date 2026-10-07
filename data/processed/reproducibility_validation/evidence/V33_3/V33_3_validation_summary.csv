@@ -1,0 +1,9 @@
+query_id,control_type,source_reference,expected_hit,observed_hit,hit_count,best_sseqid,best_pident,best_query_coverage,best_alignment_length,best_evalue,best_bitscore
+V33_3_POS_01_OTA001,POSITIVE,OTA001,True,True,1,OTA001,100.0,100.0,500.0,0.0,902.0
+V33_3_POS_02_OTA002,POSITIVE,OTA002,True,True,1,OTA002,100.0,100.0,500.0,0.0,902.0
+V33_3_POS_03_OTA003,POSITIVE,OTA003,True,True,1,OTA003,100.0,100.0,500.0,0.0,902.0
+V33_3_POS_04_OTA004,POSITIVE,OTA004,True,True,1,OTA004,100.0,100.0,500.0,0.0,902.0
+V33_3_POS_05_OTA005,POSITIVE,OTA005,True,True,1,OTA005,100.0,100.0,463.0,0.0,836.0
+V33_3_NEG_01,NEGATIVE,,False,False,0,,,,,,
+V33_3_NEG_02,NEGATIVE,,False,False,0,,,,,,
+V33_3_NEG_03,NEGATIVE,,False,False,0,,,,,,

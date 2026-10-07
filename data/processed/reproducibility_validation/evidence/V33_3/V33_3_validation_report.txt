@@ -1,0 +1,59 @@
+COFFEE OTA — V33.3 FRESH EXECUTABLE BLAST VALIDATION
+
+Date/runtime:
+Current Colab execution
+
+BLAST executable:
+/usr/bin/blastn
+
+Reference FASTA:
+[PROJECT_SOURCE]/tools/blast/ota_markers_blast.fasta
+
+BLAST database:
+[PROJECT_SOURCE]/tools/blast/ota_reference_db/ota_markers
+
+Reference sequence count:
+5
+
+CONTROL COUNTS
+--------------
+Positive controls: 5
+Negative controls: 3
+Total controls: 8
+
+CONFUSION MATRIX
+----------------
+TP: 5
+FN: 0
+TN: 3
+FP: 0
+
+METRICS
+-------
+Sensitivity: 1.0
+Specificity: 1.0
+Precision: 1.0
+F1: 1.0
+Accuracy: 1.0
+
+EXECUTION
+---------
+Python BLAST wrapper: PASS
+Direct blastn cross-check: PASS
+Direct BLAST output bytes: 371
+
+STATUS
+------
+COMPUTATIONAL_CONTROLS_PASS
+
+INTERPRETATION
+--------------
+These are computational control results obtained by executing
+the current BLAST+ pipeline.
+
+They do NOT establish biological sensitivity, biological
+specificity, field performance, OTA production, or a validated
+probability of contamination.
+
+The negative controls are computational controls and should not
+be interpreted as a representative biological specificity panel.

@@ -1,0 +1,21 @@
+V33.6 — BIOLOGICAL NEAR-NEIGHBOUR CHALLENGE
+======================================================================
+
+Original challenge panel was rerun through the current Python -> NCBI BLASTN implementation.
+
+Source FASTA: [PROJECT_ROOT]/data/processed/blast_validation/annotated_cds_biological_challenge/annotated_cds_queries.fasta
+Source SHA-256: 8cdd5044d836ce1e90ec77fbc1481d891dcca44f20fe03d6d1c71d675c740fd2
+Queries: 13
+Queries with any BLAST hit: 0
+Queries with no BLAST hit: 13
+Wrapper/direct agreement: True
+
+        rule  total_queries  queries_passing  queries_not_passing  observed_hit_fraction
+R80_C90_L100             13                0                   13                    0.0
+R85_C80_L100             13                0                   13                    0.0
+R90_C90_L150             13                0                   13                    0.0
+R95_C90_L150             13                0                   13                    0.0
+R90_C95_L300             13                0                   13                    0.0
+
+Interpretation:
+This is executable computational challenge-panel evidence only. It does not establish biological, clinical, environmental, or diagnostic specificity.

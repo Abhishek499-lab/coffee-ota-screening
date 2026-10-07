@@ -1,0 +1,6 @@
+rule,total_queries,queries_passing,queries_not_passing,observed_hit_fraction
+R80_C90_L100,13,0,13,0.0
+R85_C80_L100,13,0,13,0.0
+R90_C90_L150,13,0,13,0.0
+R95_C90_L150,13,0,13,0.0
+R90_C95_L300,13,0,13,0.0

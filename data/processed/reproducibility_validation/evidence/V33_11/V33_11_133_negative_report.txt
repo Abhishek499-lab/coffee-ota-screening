@@ -1,0 +1,16 @@
+================================================================================
+V33.11 — FRESH 133-NEGATIVE REPRODUCTION
+================================================================================
+
+Input records: 133
+Queries with any BLAST hit: 0
+Queries with significant hit: 0
+
+Rule: R80_C90_L100
+identity >= 80%
+query coverage >= 90%
+alignment >= 100 nt
+E-value <= 1e-5
+
+Input SHA-256:
+e14c1869e2d59de99a600a708fa4395547b96c898cac9836faf6369149ca24f5

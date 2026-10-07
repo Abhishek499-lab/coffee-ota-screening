@@ -1,0 +1,14 @@
+query_id,query_length,any_blast_hit,blast_hit_count,best_subject,best_identity,best_alignment_length,best_coverage,best_evalue,best_bitscore
+ACDS_001|OR459828.1|related_P450|ochE,1584,False,0,,,0,0.0,,0.0
+ACDS_002|OR459828.1|related_P450|ochH,1127,False,0,,,0,0.0,,0.0
+ACDS_003|OR459828.1|related_P450|ochC,1081,False,0,,,0,0.0,,0.0
+ACDS_004|OR459828.1|related_P450|ochI,1173,False,0,,,0,0.0,,0.0
+ACDS_005|OR459828.1|related_P450|ochJ,1575,False,0,,,0,0.0,,0.0
+ACDS_006|OR459828.1|related_PKS|ochA,6498,False,0,,,0,0.0,,0.0
+ACDS_007|PZ961997.1|related_P450|NA,645,False,0,,,0,0.0,,0.0
+ACDS_008|PX139027.1|related_PKS|pasA,5299,False,0,,,0,0.0,,0.0
+ACDS_009|PX139027.1|related_NRPS|pasA,5299,False,0,,,0,0.0,,0.0
+ACDS_010|PX139027.1|related_P450|pasB,573,False,0,,,0,0.0,,0.0
+ACDS_011|PX634211.1|related_P450|NA,840,False,0,,,0,0.0,,0.0
+ACDS_012|PX634211.1|related_P450|NA,1281,False,0,,,0,0.0,,0.0
+ACDS_013|PX634211.1|related_NRPS|NA,779,False,0,,,0,0.0,,0.0
