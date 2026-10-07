@@ -14,7 +14,7 @@ PROCESSED_DIR = DATA_DIR / "processed"
 
 # --- Feature extraction --------------------------------------------------
 # k-mer length used for the lightweight sequence-similarity scorer.
-# Swap this pipeline for real BLAST+ later if you need production-grade
+# Production sequence evidence uses the executable BLAST+ engine implemented in src.feature_extraction.py.
 # sensitivity; k-mer similarity is a fast, dependency-free stand-in.
 KMER_SIZE = 6
 
