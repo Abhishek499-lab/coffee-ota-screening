@@ -24,7 +24,7 @@ as independently verifiable repository results.
 
 Sequence similarity alone does not establish OTA toxin production.
 
-Biological sensitivity and specificity have not been established by this repository.
+Biological sensitivity, biological specificity, clinical sensitivity, and clinical specificity have not been established by this repository.
 
 The workflow is a computational screening/triage layer and does not replace confirmatory
 laboratory testing.

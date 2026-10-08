@@ -91,7 +91,7 @@ Detailed validation results are intentionally documented separately until the
 corresponding reproducibility artifacts are released.
 
 These computational checks do **not** establish
-biological or clinical sensitivity/specificity.
+biological sensitivity, biological specificity, clinical sensitivity, or clinical specificity.
 
 > **No significant OTA-reference BLAST hit was observed in the tested
 > biological challenge panel or the 133-sequence expanded negative-control
